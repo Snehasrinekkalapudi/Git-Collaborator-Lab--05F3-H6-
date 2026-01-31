@@ -1,1 +1,2 @@
-TASKS Status: Completed by Collaborator
+TASKS Status: Completed by Owner and Collaborator
+
