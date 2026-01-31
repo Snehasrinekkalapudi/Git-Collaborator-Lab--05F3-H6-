@@ -1,1 +1,2 @@
-Task Status: Pending
+Task Status: Completed by Owner
+
