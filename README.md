@@ -1,1 +1,8 @@
-# Git-Collaborator-Lab--05F3-H6-
+\## Collaborator Details
+
+Name: NEKKALAPUDI SNEHA SRI
+
+Roll No: 23PA1A05H6
+
+Role: Collaborator
+
